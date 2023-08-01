@@ -1,0 +1,62 @@
+{
+    "campaigns": [
+        {
+            "testeClickEvento": [
+                {
+                    "_2385544518884010488": {
+                        "campaing": "testeClickEvento",
+                        "adName": "teste"
+                    }
+                }
+            ]
+        },
+        {
+            "FB-P_Message_bofu_ClickToWpp-V2": [
+                {
+                    "_23854320566330041": {
+                        "campaing": "FB-P_Message_bofu_ClickToWpp-V2",
+                        "adName": "FB-P_Message_bofu_ClickToWpp-V2_LK-OPP_clicktowhatsapp_horas-sem-responder-cliente_Image_ad029-22"
+                    }
+                }
+            ]
+        },
+        {
+            "FB-P_Message_bofu_ClickToWpp-V3": [
+                {
+                    "_23854453459530104": {
+                        "campaing": "FB-P_Message_bofu_ClickToWpp-V3",
+                        "adName": "FB-P_Message_bofu_ClickToWpp-V3_LK-OPP_clicktowhatsapp_horas-sem-responder-cliente_Image_ad029-22"
+                    }
+                },
+                {
+                    "_23856030599510104": {
+                        "campaing": "FB-P_Message_bofu_ClickToWpp-V3",
+                        "adName": "FB-P_Message_bofu_ClickToWpp-V3_LK-OPP_Enterprise-V7_Diferentes-Canais-Bagunca_Image_Ad151-23"
+                    }
+                },
+                {
+                    "_23856030574070104": {
+                        "campaing": "FB-P_Message_bofu_ClickToWpp-V3",
+                        "adName": "FB-P_Message_bofu_ClickToWpp-V3_LK-OPP_Enterprise-V6_Direcione-Todo-Mundo_Image_Ad150-23"
+                    }
+                },
+                {
+                    "_23856030618860104": {
+                        "campaing": "FB-P_Message_bofu_ClickToWpp-V3",
+                        "adName": "FB-P_Message_bofu_ClickToWpp-V3_LK-OPP_Enterprise-V8_WhatsApp-Maquina-Atendimento_Image_Ad152-23"
+                    }
+                }
+            ]
+        },
+        {
+            "FB-P_Message_bofu_ClickToWpp-V4": [
+                {
+                    "_23855445188840104": {
+                        "campaing": "FB-P_Message_bofu_ClickToWpp-V4",
+                        "adName": "FB-P_Message_bofu_ClickToWpp-V5_LK-OPP_clicktowhatsapp_horas-sem-responder-cliente_Image_ad029-22"
+                    }
+                }
+            ]
+        }
+    ]
+}
